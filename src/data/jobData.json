@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "company": "PT. GoHire",
+    "title": "Web Developer",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 3 – 4 Juta",
+    "tags": ["Junior", "Entry Level", "Frontend", "Backend", "HTML", "CSS", "JavaScript", "Web Development", "Software Engineering"],
+    "education": "SMA / SMK",
+    "jobLevel": "Junior / Entry Level",
+    "responsibilities": [
+      "Merancang dan Mengembangkan Website",
+      "Mengoptimalkan Performa Website",
+      "Memperbaiki Bug dan Masalah Teknis",
+      "Kolaborasi dengan Tim",
+      "Menerapkan Keamanan Website",
+      "Pemeliharaan dan Pembaruan"
+    ],
+    "skills": [
+      "Pemrograman Web",
+      "Manajemen Basis Data",
+      "Kemampuan Desain",
+      "Pengembangan Responsif",
+      "SEO dan Analitik"
+    ],
+    "qualifications": [
+      "Minimal SMK/S-1",
+      "Pengalaman kerja minimal 1-3 tahun sebagai Web Developer"
+    ],
+    "workSchedule": "Senin - Sabtu",
+    "companyDetails": {
+      "industry": "Software House",
+      "location": "Jakarta Selatan",
+      "employees": "10-50 Karyawan",
+      "description": "Go Hire adalah sebuah website software house"
+    }
+  },
+  {
+    "id": 2,
+    "company": "PT. DigiSoft",
+    "title": "UI/UX Designer",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 4 – 6 Juta",
+    "tags": ["Mid-Level", "Creative", "Design", "UI Design", "UX Design", "Figma", "Adobe XD", "Prototyping", "Wireframing", "User Research"],
+    "education": "D3 / S1",
+    "jobLevel": "Mid-Level",
+    "responsibilities": [
+      "Merancang Prototipe UI/UX",
+      "Mengoptimalkan Antarmuka Pengguna",
+      "Berkoordinasi dengan Tim Pengembang",
+      "Melakukan Riset Pengguna",
+      "Memastikan Konsistensi Desain",
+      "Uji Pengalaman Pengguna"
+    ],
+    "skills": [
+      "Desain Grafis",
+      "Penguasaan Software Prototyping",
+      "Analisis UX",
+      "Pengetahuan HTML/CSS",
+      "Manajemen Proyek"
+    ],
+    "qualifications": [
+      "Minimal D3/S-1 Desain atau bidang terkait",
+      "Pengalaman kerja minimal 2-4 tahun sebagai UI/UX Designer"
+    ],
+    "workSchedule": "Senin - Jumat",
+    "companyDetails": {
+      "industry": "Creative Agency",
+      "location": "Jakarta Selatan",
+      "employees": "50-100 Karyawan",
+      "description": "DigiSoft adalah perusahaan kreatif dengan fokus pada solusi digital."
+    }
+  },
+  {
+    "id": 3,
+    "company": "PT. TechNova",
+    "title": "Data Analyst",
+    "location": "Jakarta Selatan",
+    "type": "Part Time",
+    "salary": "Rp 5 – 7 Juta",
+    "tags": ["Part Time", "Analytical", "Data Analysis", "Statistics", "SQL", "Python", "R", "Machine Learning", "Visualization"],
+    "education": "S1 Statistik / Teknik Informatika",
+    "jobLevel": "Entry Level",
+    "responsibilities": [
+      "Menganalisis Data Perusahaan",
+      "Menyajikan Hasil Analisis dalam Laporan",
+      "Melakukan Data Cleansing",
+      "Berkoordinasi dengan Tim Bisnis",
+      "Menyediakan Wawasan Berbasis Data",
+      "Menyusun Visualisasi Data"
+    ],
+    "skills": [
+      "Microsoft Excel",
+      "SQL",
+      "Python / R",
+      "Statistik Dasar",
+      "Tableau / Power BI"
+    ],
+    "qualifications": [
+      "Lulusan S1 Statistik atau bidang terkait",
+      "Memiliki kemampuan analisis yang baik",
+      "Fresh graduate dipersilakan melamar"
+    ],
+    "workSchedule": "Fleksibel",
+    "companyDetails": {
+      "industry": "IT Services",
+      "location": "Jakarta Selatan",
+      "employees": "20-50 Karyawan",
+      "description": "TechNova menyediakan layanan analitik data berbasis teknologi."
+    }
+  },
+  {
+    "id": 4,
+    "company": "PT. Innovia",
+    "title": "Digital Marketing Specialist",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 5 – 6 Juta",
+    "tags": ["Mid-Level", "Marketing", "SEO", "Social Media", "Google Ads", "Content Creation", "Digital Strategy", "Analytics"],
+    "education": "S1 Marketing / Komunikasi",
+    "jobLevel": "Mid-Level",
+    "responsibilities": [
+      "Membuat Strategi Digital Marketing",
+      "Mengelola Media Sosial Perusahaan",
+      "Menganalisis Performa Kampanye",
+      "Mengelola Iklan Digital",
+      "Kolaborasi dengan Tim Kreatif",
+      "Mengembangkan Konten Digital"
+    ],
+    "skills": [
+      "SEO",
+      "Google Ads",
+      "Copywriting",
+      "Social Media Management",
+      "Data Analysis"
+    ],
+    "qualifications": [
+      "Minimal S1 Marketing atau bidang terkait",
+      "Pengalaman kerja minimal 2 tahun sebagai Digital Marketing Specialist"
+    ],
+    "workSchedule": "Senin - Jumat",
+    "companyDetails": {
+      "industry": "Digital Marketing",
+      "location": "Jakarta Selatan",
+      "employees": "50-100 Karyawan",
+      "description": "Innovia adalah perusahaan yang fokus pada pemasaran digital modern."
+    }
+  },
+  {
+    "id": 5,
+    "company": "PT. CloudSoft",
+    "title": "Backend Developer",
+    "location": "Jakarta Selatan",
+    "type": "Remote",
+    "salary": "Rp 6 – 8 Juta",
+    "tags": ["Senior", "Remote", "Node.js", "REST API", "Backend Development", "Database", "Docker", "Microservices"],
+    "education": "S1 Teknik Informatika",
+    "jobLevel": "Senior",
+    "responsibilities": [
+      "Mengembangkan Backend untuk Aplikasi",
+      "Mengelola API",
+      "Meningkatkan Performa Server",
+      "Memastikan Keamanan Data",
+      "Memperbaiki Bug",
+      "Melakukan Pemeliharaan Server"
+    ],
+    "skills": [
+      "Node.js",
+      "Database Management",
+      "Docker",
+      "REST API",
+      "Git"
+    ],
+    "qualifications": [
+      "Minimal S1 Teknik Informatika",
+      "Pengalaman kerja minimal 4 tahun di bidang Backend Development"
+    ],
+    "workSchedule": "Fleksibel",
+    "companyDetails": {
+      "industry": "Software Development",
+      "location": "Jakarta Selatan",
+      "employees": "20-50 Karyawan",
+      "description": "CloudSoft adalah perusahaan pengembangan perangkat lunak berbasis cloud."
+    }
+  },
+  {
+    "id": 6,
+    "company": "PT. HealthLink",
+    "title": "Customer Service Representative",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 3 – 5 Juta",
+    "tags": ["Customer Support", "Entry Level", "Customer Service", "Communication", "Problem Solving", "Client Relations", "Multitasking"],
+    "education": "SMA / D3",
+    "jobLevel": "Entry Level",
+    "responsibilities": [
+      "Melayani Pertanyaan Pelanggan",
+      "Menyelesaikan Keluhan",
+      "Memberikan Informasi Produk",
+      "Mengelola Basis Data Pelanggan",
+      "Menjaga Hubungan Baik dengan Pelanggan"
+    ],
+    "skills": [
+      "Komunikasi Efektif",
+      "Microsoft Office",
+      "Manajemen Data",
+      "Multitasking",
+      "Empati"
+    ],
+    "qualifications": [
+      "Lulusan SMA/D3",
+      "Fresh graduate dipersilakan melamar"
+    ],
+    "workSchedule": "Senin - Sabtu",
+    "companyDetails": {
+      "industry": "Healthcare",
+      "location": "Jakarta Selatan",
+      "employees": "50-200 Karyawan",
+      "description": "HealthLink adalah perusahaan layanan kesehatan terpercaya."
+    }
+  },
+  {
+    "id": 7,
+    "company": "PT. OfficePro",
+    "title": "Administrative Assistant",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 3 – 4 Juta",
+    "tags": ["Admin", "Entry Level", "Administration", "Office Management", "Organizational Skills", "Clerical Work", "Documentation"],
+    "education": "SMA / SMK",
+    "jobLevel": "Entry Level",
+    "responsibilities": [
+      "Mengatur Jadwal dan Dokumen",
+      "Menyusun Laporan Harian",
+      "Menjawab Telepon dan Email",
+      "Mengelola Arsip Kantor",
+      "Membantu Koordinasi dengan Tim"
+    ],
+    "skills": [
+      "Microsoft Office",
+      "Manajemen Waktu",
+      "Komunikasi Efektif",
+      "Pengarsipan",
+      "Detail-oriented"
+    ],
+    "qualifications": [
+      "Lulusan SMA/SMK",
+      "Pengalaman kerja minimal 1 tahun di bidang administrasi"
+    ],
+    "workSchedule": "Senin - Jumat",
+    "companyDetails": {
+      "industry": "Corporate Services",
+      "location": "Jakarta Selatan",
+      "employees": "50-100 Karyawan",
+      "description": "OfficePro menyediakan layanan administrasi dan dukungan kantor."
+    }
+  },
+  {
+    "id": 8,
+    "company": "PT. StellarCorp",
+    "title": "Staff Keuangan",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 4 – 5 Juta",
+    "tags": ["Finance", "Entry Level", "Accounting", "Financial Reporting", "Excel", "Bank Reconciliation", "Data Entry"],
+    "education": "D3 / S1 Akuntansi",
+    "jobLevel": "Entry Level",
+    "responsibilities": [
+      "Mengelola Data Keuangan Perusahaan",
+      "Menyusun Laporan Keuangan",
+      "Melakukan Rekonsiliasi Bank",
+      "Mencatat Transaksi Harian",
+      "Mengarsipkan Dokumen Keuangan"
+    ],
+    "skills": [
+      "Microsoft Excel",
+      "Akuntansi Dasar",
+      "Detail-oriented",
+      "Kemampuan Analitis",
+      "Manajemen Data"
+    ],
+    "qualifications": [
+      "Lulusan D3/S1 Akuntansi atau Keuangan",
+      "Fresh graduate dipersilakan melamar"
+    ],
+    "workSchedule": "Senin - Jumat",
+    "companyDetails": {
+      "industry": "Finance",
+      "location": "Jakarta Selatan",
+      "employees": "50-200 Karyawan",
+      "description": "StellarCorp adalah perusahaan yang bergerak di bidang manajemen keuangan."
+    }
+  },
+  {
+    "id": 9,
+    "company": "PT. CleanPlus",
+    "title": "Cleaner",
+    "location": "Jakarta Selatan",
+    "type": "Full Time",
+    "salary": "Rp 2 – 3 Juta",
+    "tags": ["Maintenance", "Entry Level", "Cleaning", "Janitorial", "Sanitation", "Physical Work", "Workplace Safety"],
+    "education": "SMP / SMA",
+    "jobLevel": "Entry Level",
+    "responsibilities": [
+      "Membersihkan Area Kantor",
+      "Membuang Sampah pada Tempatnya",
+      "Memastikan Kebersihan Kamar Mandi",
+      "Menyusun Peralatan Kebersihan",
+      "Melakukan Tugas Tambahan Sesuai Permintaan"
+    ],
+    "skills": [
+      "Kebersihan",
+      "Manajemen Waktu",
+      "Detail-oriented",
+      "Disiplin",
+      "Fleksibilitas"
+    ],
+    "qualifications": [
+      "Lulusan SMP/SMA",
+      "Pengalaman minimal 1 tahun di bidang kebersihan"
+    ],
+    "workSchedule": "Senin - Sabtu",
+    "companyDetails": {
+      "industry": "Facility Management",
+      "location": "Jakarta Selatan",
+      "employees": "20-50 Karyawan",
+      "description": "CleanPlus adalah penyedia layanan kebersihan profesional."
+    }
+  }
+]

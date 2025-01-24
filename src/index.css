@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .shadow-1 {
+        @apply drop-shadow-[-15px_15px_15px_rgba(0,0,0,0.5)];
+    }
+}
