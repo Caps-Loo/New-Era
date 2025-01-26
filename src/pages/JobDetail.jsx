@@ -39,7 +39,7 @@ const JobDetail = () => {
     if (!isLoggedIn) {
       setIsModalOpen(true); // Buka modal jika belum login
     } else {
-      alert("Application submitted successfully!");
+      navigate(`/apply/${job.id}`); // Jika login, arahkan ke halaman apply
     }
   };
 
@@ -59,7 +59,7 @@ const JobDetail = () => {
             <p className="text-green-600 font-medium">{job.salary}</p>
             <button
               className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600"
-              onClick={handleApply} // Cek login sebelum membuka modal
+              onClick={handleApply} // Gunakan handleApply
             >
               Lamar Pekerjaan
             </button>

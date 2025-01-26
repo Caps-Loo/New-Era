@@ -18,7 +18,9 @@ const Login = () => {
         password,
       });
 
-      localStorage.setItem("token", res.data.token); // Simpan token di localStorage
+      localStorage.setItem("token", res.data.token); // Token
+      localStorage.setItem("user", JSON.stringify(res.data.user)); // Data user
+
       alert("Login Berhasil!");
       navigate("/"); // Setelah login akan masuk ke halaman home
     } catch (error) {
@@ -31,8 +33,20 @@ const Login = () => {
       {/* Left Section */}
       <div className="w-1/2 bg-custom-yellow flex items-center justify-center">
         <div className="text-center">
-          <img alt="Logo" className="mx-auto mt-1" height="300" src={LogoImage} width="250" />
-          <img alt="Illustration" className="mx-auto mt-9" height="300" src={LoginImage} width="500" />
+          <img
+            alt="Logo"
+            className="mx-auto mt-1"
+            height="300"
+            src={LogoImage}
+            width="250"
+          />
+          <img
+            alt="Illustration"
+            className="mx-auto mt-9"
+            height="300"
+            src={LoginImage}
+            width="500"
+          />
         </div>
       </div>
 
@@ -43,7 +57,10 @@ const Login = () => {
           {error && <p className="text-red-500 text-center mb-4">{error}</p>}
           <form onSubmit={handleLogin}>
             <div className="mb-4">
-              <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">
+              <label
+                className="block text-gray-700 text-sm font-bold mb-2"
+                htmlFor="email"
+              >
                 Email <span className="text-red-500">*</span>
               </label>
               <input
@@ -57,7 +74,10 @@ const Login = () => {
               />
             </div>
             <div className="mb-6">
-              <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="password">
+              <label
+                className="block text-gray-700 text-sm font-bold mb-2"
+                htmlFor="password"
+              >
                 Password <span className="text-red-500">*</span>
               </label>
               <input
